@@ -1,0 +1,3 @@
+rootProject.name = 'battle_ship_tycoo_1235'
+
+include ':app'
